@@ -1,0 +1,1 @@
+mafft --add plethodon.fa MysteryPleth.fa > full_plethodon_alignment.phy
